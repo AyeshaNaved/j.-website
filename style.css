@@ -1,0 +1,45 @@
+.alert{
+    font-size:12px ;
+}
+.flag{
+    width: 30px;
+    height: 15px;
+}
+.dropdown-item{
+    font-size: 12px;
+}
+.footer-t{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.fa-brands{
+    font-size: 50px;
+    gap: 10px;
+}
+.fa-facebook{
+    color: blue;
+}
+.fa-instagram{
+    color: purple;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fa-twitter{
+    color: blue; 
+}
+.fa-youtube{
+    color: red;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fa-pinterest{
+    color: red;
+}
+.men{
+    margin-left: 70px;
+    margin-right: 50px;
+}
+.girl{
+    margin-right: 15%;
+}
